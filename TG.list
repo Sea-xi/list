@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,cdn-telegram.org
+IP-ASN,62014,no-resolve // DC5
+IP-ASN,62041,no-resolve // DC4
+IP-ASN,59930,no-resolve // DC1
+IP-ASN,44907,no-resolve // DC2
+IP-ASN,211157,no-resolve // DC3
+IP-CIDR,109.239.140.0/24,no-resolve // Telegram Messenger LLP
+IP-CIDR,5.28.192.0/18,no-resolve // IPFFM - Internet Provider Frankfurt GmbH
+IP-CIDR,5.28.195.80/32,no-resolve

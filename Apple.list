@@ -1,0 +1,33 @@
+# Apple
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,cdn.apple-mapkit.com
+DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
+DOMAIN-SUFFIX,me.com
+USER-AGENT,com.apple.appstored* // iOS App Store
+USER-AGENT,com.apple.trustd*
+USER-AGENT,com.apple.Maps
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,%E5%9C%B0%E5%9B%BE* // Maps
+USER-AGENT,Music*
+USER-AGENT,geod*
+PROCESS-NAME,storedownloadd // Mac App Store
+PROCESS-NAME,com.apple.geod*

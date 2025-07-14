@@ -1,7 +1,7 @@
 #!name=🌐 General Enhanced
-#!desc=(💻 Mac版) 1.添加跳过代理部分段内容
-#!author=why
-#!category=Mac
+#!desc=(💻 Mac版) 1.添加跳过代理部分段内容 2.DNS设置
+#!author=Mac
+#!category=why
 
 [General]
 skip-proxy = 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, 127.0.0.1, ::1/128, fe80::/10, localhost, *.local
